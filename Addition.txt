@@ -1,4 +1,6 @@
 int i = 10;
 int j = 20;
 int add = i+j;
-Println (add);
+S O Println (add);
+
+
